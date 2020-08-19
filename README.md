@@ -5,3 +5,5 @@ A Job Scheduler created using Java for COMP3100 in Macquarie University.
 This uses Java as the main programming language to perform the job scheduling and is run on a Linux or Mac OS terminal. To run this on windows, there is a special program required (PuTTy).
 
 This ReadMe will me updated in the future.
+
+Parent Repository that I worked with: https://github.com/Katrina1999/COMP3100
