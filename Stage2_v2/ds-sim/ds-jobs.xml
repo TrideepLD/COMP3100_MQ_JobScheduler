@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- job list for ds-sim@MQ, 6-Mar, 2020 @ MQ -->
+<jobs>
+	<type name="short" minRunTime="1" maxRunTime="300" populationRate="20" />
+	<type name="medium" minRunTime="301" maxRunTime="1800" populationRate="60" />
+	<type name="long" minRunTime="1801" maxRunTime="100000" populationRate="20" />
+	<job id="0" type="long" submitTime="24" estRunTime="37232" cores="1" memory="200" disk="1200" />
+	<job id="1" type="medium" submitTime="77" estRunTime="2025" cores="1" memory="600" disk="700" />
+	<job id="2" type="medium" submitTime="80" estRunTime="3409" cores="1" memory="600" disk="800" />
+	<job id="3" type="medium" submitTime="84" estRunTime="832" cores="2" memory="2100" disk="1300" />
+	<job id="4" type="medium" submitTime="124" estRunTime="2318" cores="2" memory="1100" disk="2400" />
+	<job id="5" type="medium" submitTime="166" estRunTime="2436" cores="1" memory="100" disk="1600" />
+	<job id="6" type="short" submitTime="179" estRunTime="17" cores="1" memory="600" disk="1500" />
+	<job id="7" type="medium" submitTime="181" estRunTime="13" cores="2" memory="500" disk="400" />
+	<job id="8" type="long" submitTime="205" estRunTime="5618" cores="2" memory="500" disk="2800" />
+	<job id="9" type="medium" submitTime="257" estRunTime="732" cores="1" memory="600" disk="200" />
+</jobs>
